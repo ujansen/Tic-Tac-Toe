@@ -8,3 +8,4 @@ The main work being done in the program is defined in the best_move(board, depth
 
 More on Minimax Algorithm can be found here: https://www.javatpoint.com/mini-max-algorithm-in-ai
 
+The second program is 2 AI's playing against each other with one trying to maximize its own and trying to minimize the other's and vice versa.
