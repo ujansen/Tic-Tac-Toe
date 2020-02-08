@@ -1,4 +1,4 @@
-#importing all the required features
+#import all the required features
 from math import inf
 from random import choice
 import time
